@@ -1,7 +1,5 @@
 WebSource
 =========
-
-# Web source
 這是一個基本的 Google Chrome 外掛，可以從這個 Project 學到如何建立一個基本的 Extension
 
 # Install
