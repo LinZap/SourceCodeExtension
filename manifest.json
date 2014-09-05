@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "WebPageSourceCode",
+  "description": "This is a simple extension by Zap",
+  "version": "1.0",
+
+  "permissions": ["tabs", "<all_urls>"],
+  "browser_action": {
+    "default_icon": {                 
+            "19": "icon19.png",          
+            "38": "icon38.png"
+          },
+    "default_popup": "popup.html"
+  }
+}
