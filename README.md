@@ -7,3 +7,5 @@ WebSource
 
 # Feature
 點選外掛ICON，可以快速看到目前的網站原始碼
+
+![Alt text](https://raw.githubusercontent.com/LinZap/WebSource/master/img.png "截圖")
